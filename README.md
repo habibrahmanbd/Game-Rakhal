@@ -1,6 +1,6 @@
 # Game-Rakhal-v1.0
 
-Rakhal(রাখাল) is a Bangla word, in English which is cowboy. In Bangladesh past few decades the were used to play flute and play several games while on the field the cows. This game is one of that games.
+Rakhal(রাখাল) is a Bangla word, in English which is cowboy. In Bangladesh past few decades they were used to play flute and several games while on the field the cows. This game is one of that games.
 
 
 ## Credits:
