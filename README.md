@@ -1,4 +1,4 @@
-# Game-Rakhal-v1.0
+# Game-Rakhal
 
 Rakhal(রাখাল) is a Bangla word, in English which is cowboy. Traditional game of Bangladesh played by the cowboys in rural villages.
 
